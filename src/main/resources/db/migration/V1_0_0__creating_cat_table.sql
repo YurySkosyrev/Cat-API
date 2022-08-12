@@ -4,3 +4,4 @@ create table cat (
   birth_day DATE not null,
   created_at TIMESTAMP NOT NULL
 );
+
